@@ -1,6 +1,6 @@
 ### Hi there, I'm Javier Silva-Valencia 👋
 
-I am a Medical Doctor (MD) and a Biomedical Informatician (MSc). I am from Peru but now I am based in Antwerp - Belgium, where I am finishing a Master of Public Health (MPH) at the ITG Institute of Tropical Medicine.
+I am a Medical Doctor (MD) and a Biomedical Informatician (MSc). I am from Peru but I am based in Antwerp - Belgium, where I am finishing a Master of Public Health (MPH) at the ITG Institute of Tropical Medicine.
 
 Since 2018 I have been passionate about research in epidemiology, health data management, and the analysis of health information systems. If you found value in something I've created, please feel free to shout out or contact me if you need it.
 
